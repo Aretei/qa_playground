@@ -74,4 +74,4 @@ birdz.forEach((item:aquatic)=>{
 // console.log(obj.name)
 // console.log(obj["name"])
 
-
+// hi there
